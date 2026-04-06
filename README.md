@@ -46,7 +46,7 @@ Tecnologias utilizadas
 
 Como executar o projeto
   1. Clone o repositório
-    git clone https://github.com/seu-usuario/seu-repo.git
+    git clone https://github.com/jrm0316/Sistema-de-Busca-Inteligente-com-IA-RAG-FAISS
     cd seu-repo
   2. Crie um ambiente virtual
     python -m venv venv
