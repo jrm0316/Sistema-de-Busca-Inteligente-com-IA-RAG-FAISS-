@@ -62,11 +62,16 @@ Como executar o projeto
     python app_withFAISS.py
 
 Estrutura do projeto
+
 .
 ├── app_withFAISS.py     # Pipeline principal
+
 ├── pdf_loader2.py       # Leitura e processamento do PDF
+
 ├── llm_groq.py          # Integração com o modelo de linguagem
+
 ├── .env                 # Chave da API
+
 └── Sistemas.pdf         # Documento utilizado
 
 Diferenciais do projeto
